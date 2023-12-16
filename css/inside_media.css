@@ -1,0 +1,1683 @@
+@media(max-width: 1440px) {
+    .app_tab {
+        padding: 155px 0px;
+    }
+
+    .app_tab img {
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .why_part {
+        padding: 0px 0px;
+    }
+
+    .eyes {
+        padding-top: 0px;
+    }
+
+    .eyes_text {
+        padding-top: 20%;
+    }
+
+    .eyes_image img {
+        width: 100%;
+        padding-top: 10px;
+    }
+
+    .eyes_text h2 {
+        width: 30%;
+    }
+
+    .panel {
+        padding: 80px 0px;
+    }
+
+    .panel_image img {
+        margin-top: 20px;
+    }
+
+    .user_text {
+        padding: 12% 0px;
+    }
+
+    .subscribe {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+
+    .subs_image {
+        padding: 20px 0px;
+    }
+}
+
+@media(max-width: 1399px) {
+
+    .app_tab {
+        padding: 100px 0px;
+    }
+
+    .app_tab img {
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .why_part {
+        padding: 0px 0px;
+    }
+
+    .eyes {
+        padding-top: 0px;
+    }
+
+    .eyes_text {
+        padding-top: 20%;
+    }
+
+    .eyes_image img {
+        width: 100%;
+        padding-top: 30%;
+    }
+
+    .eyes_text h2 {
+        width: 30%;
+    }
+
+    .panel {
+        padding: 80px 0px;
+    }
+
+    .panel_image img {
+        margin-top: 40%;
+    }
+
+    .user_text {
+        padding: 10% 0px;
+    }
+
+    .subscribe {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+
+    .subs_image {
+        padding: 20px 0px;
+    }
+
+    /* team responsive */
+
+    .team_group {
+        display: none;
+    }
+
+    .groupres1 {
+        display: block;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex;
+    }
+
+    .groupres2 {
+        display: block !important;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex !important;
+    }
+
+    .team_group2 {
+        display: none;
+    }
+
+    .grp1::before {
+        width: 90%;
+    }
+
+    .grp2::before {
+        width: 90%;
+    }
+
+    .amb_res {
+        display: block !important;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex !important;
+    }
+
+    .pfpamb_res::before {
+        width: 45%;
+    }
+
+}
+
+@media(max-width: 1199px) {
+
+    .app_tab {
+        padding: 100px 0px;
+    }
+
+    .app_tab img {
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .why_part {
+        padding: 0px 0px;
+    }
+
+    .eyes {
+        padding-top: 0px;
+    }
+
+    .eyes_text {
+        padding-top: 20%;
+    }
+
+    .eyes_image img {
+        width: 100%;
+        padding-top: 30%;
+    }
+
+    .eyes_text h2 {
+        width: 30%;
+    }
+
+    .panel {
+        padding: 80px 0px;
+    }
+
+    .panel_image img {
+        margin-top: 40%;
+    }
+
+    .user_text {
+        padding: 10% 0px;
+    }
+
+    .subscribe {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+
+    .subs_image {
+        padding: 20px 0px;
+    }
+
+
+    /* road map responsive */
+
+    .road_map {
+        display: block;
+        min-width: 100vh;
+    }
+
+    .tittle_box h2 {
+        font-size: 13px;
+    }
+
+    .paper {
+        left: 0%;
+    }
+
+    .papericon {
+        top: 32%;
+        left: 11%;
+    }
+
+    .invest {
+        left: 21%;
+    }
+
+    .investicon {
+        top: 32%;
+        left: 29%;
+    }
+
+    .winter {
+        left: 40%;
+        top: 16%;
+    }
+
+    .accel {
+        left: 58%;
+    }
+
+    .accelicon {
+        top: 32%;
+        left: 68%;
+    }
+
+    .winter {
+        left: 41%;
+        top: 15%;
+        width: 17%;
+    }
+
+    .wintericon {
+        top: 32%;
+        left: 49%;
+    }
+
+    .hub {
+
+        left: 78%;
+
+    }
+
+    .tittle_tech::before {
+        bottom: 33px;
+    }
+
+    .techicon {
+        top: 56%;
+        left: 20%;
+    }
+
+    .tittle_blockchain::before {
+        bottom: 50px;
+    }
+
+    .blockchainicon {
+
+        top: 56%;
+        left: 39%;
+    }
+
+    .dapps {
+        left: 49%;
+    }
+
+    .dappsicon {
+        top: 56%;
+        left: 58%;
+    }
+
+    .tittle_dapps::before {
+        bottom: 19px;
+    }
+
+    .expansionicon {
+        top: 56%;
+        left: 77%;
+    }
+
+    .tittle_expansion::before {
+        bottom: 19px;
+    }
+
+    .expansion {
+        left: 68%;
+    }
+
+    /* team responsive */
+
+    .team_group {
+        display: none;
+    }
+
+    .groupres1 {
+        display: block;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex;
+    }
+
+    .groupres2 {
+        display: block !important;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex !important;
+    }
+
+    .team_group2 {
+        display: none;
+    }
+
+    .grp1::before {
+        width: 90%;
+    }
+
+    .grp2::before {
+        width: 90%;
+    }
+
+    .amb_res {
+        display: block !important;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex !important;
+    }
+
+    .pfpamb_res::before {
+        width: 45%;
+    }
+
+}
+
+@media(max-width: 991px) {
+
+    .app_tab {
+        padding: 100px 0px;
+    }
+
+    .app_tab img {
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .why_part {
+        padding: 0px 0px;
+    }
+
+    .eyes {
+        padding-top: 0px;
+    }
+
+    .eyes_text {
+        padding-top: 20%;
+    }
+
+    .eyes_image img {
+        width: 100%;
+        padding-top: 30%;
+    }
+
+    .eyes_text h2 {
+        width: 30%;
+    }
+
+    .panel {
+        padding: 80px 0px;
+    }
+
+    .panel_image img {
+        margin-top: 40%;
+    }
+
+    .user_text {
+        padding: 10% 0px;
+    }
+
+    .subscribe {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+
+    .subs_image {
+        padding: 20px 0px;
+    }
+
+    .road_map {
+        display: none;
+    }
+
+    /* road map responsive */
+    .road_mapresponsive {
+        display: block;
+        min-height: 100vh;
+    }
+
+    .map_structure2 {
+        padding: 100px 0px;
+    }
+
+    .map_structure2 img {
+        width: 40%;
+    }
+
+    .texts p {
+
+        font-size: 10px;
+
+        margin-top: 15px;
+
+    }
+
+    .tittle_box h2 {
+        font-size: 10px;
+    }
+
+    /* paperR */
+    .paperR {
+        top: 13%;
+        left: 58%;
+        width: 46%;
+    }
+
+
+    .tittle_paperR::before {
+        left: 45%;
+    }
+
+
+    .paperRicon {
+        top: 24%;
+        left: 56%;
+    }
+
+    /* techR */
+    .techR {
+        top: 23%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .tittle_techR::before {
+        left: 47%;
+    }
+
+    .techiconR {
+        top: 32%;
+        left: 20%;
+    }
+
+    .map_icon p {
+
+        font-size: 10px;
+
+        margin: 0;
+
+        margin-top: 5px;
+
+    }
+
+    /* invest */
+    .investR {
+        top: 32%;
+        left: 60%;
+        width: 44%;
+    }
+
+    .tittle_investR::before {
+        left: 58px;
+    }
+
+    .investiconR {
+        top: 40%;
+        left: 56%;
+    }
+
+    /* blockchain */
+    .blockchainR {
+        top: 38%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .blockchainiconR {
+        top: 47%;
+        left: 20%;
+    }
+
+    .tittle_blockchainR::before {
+        left: 47%;
+    }
+
+
+    /* winter fever */
+    .winterR {
+        top: 46%;
+        left: 60%;
+        width: 44%;
+    }
+
+    .tittle_winterR::before {
+        left: 59px;
+    }
+
+    .wintericonR {
+        top: 55%;
+        left: 56%;
+    }
+
+
+    /* dapps */
+    .dappsR {
+        top: 54%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .dappsiconR {
+        top: 63%;
+        left: 20%;
+    }
+
+    .tittle_dappsR::before {
+        left: 46%;
+    }
+
+    /* accel */
+    .accelR {
+        top: 62%;
+        left: 60%;
+        width: 44%;
+    }
+
+    .tittle_accelR::before {
+        left: 46%;
+    }
+
+    .acceliconR {
+        top: 72%;
+        left: 56%;
+    }
+
+    /* expansion */
+    .expansionR {
+        top: 71%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .expansioniconR {
+        top: 79%;
+        left: 20%;
+    }
+
+    .tittle_expansionR::before {
+        left: 47%;
+    }
+
+    /* hub */
+    .hubR {
+        top: 78%;
+        left: 60%;
+        width: 44%;
+    }
+
+    .tittle_hubR::before {
+        left: 45%;
+    }
+
+    /* team responsive */
+
+    .team_group {
+        display: none;
+    }
+
+    .groupres1 {
+        display: block;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex;
+    }
+
+    .groupres2 {
+        display: block !important;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex !important;
+    }
+
+    .team_group2 {
+        display: none;
+    }
+
+    .grp1::before {
+        width: 90%;
+    }
+
+    .grp2::before {
+        width: 90%;
+    }
+
+    .amb_res {
+        display: block !important;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex !important;
+    }
+
+    .pfpamb_res::before {
+        width: 45%;
+    }
+
+
+
+
+}
+
+@media(max-width: 767px) {
+    .app_tab {
+        padding: 40px 0px;
+    }
+
+
+    .app_tab img {
+        margin-top: 0px;
+        margin-bottom: 50px;
+    }
+
+    .app_tab h2 {
+        text-align: center;
+        margin: 0;
+    }
+
+    .app_tab p {
+        margin: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .why_part {
+        padding: 40px 0px;
+    }
+
+    .eyes {
+        padding-top: 30px;
+    }
+
+    .eyes_text {
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .eyes_text h2 {
+        width: 35%;
+        margin: auto;
+        padding: 0;
+        padding: 10px;
+    }
+
+    .panel {
+        padding: 40px 0px;
+    }
+
+    .panel_image img {
+        margin-top: 50px;
+    }
+
+    .user_text {
+        padding: 30px 0px;
+    }
+
+    .road_map {
+        display: block;
+    }
+
+    .subscribe {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .subs_image {
+        padding: 30px 0px;
+    }
+
+    .road_map {
+        display: none;
+    }
+
+
+    /* team responsove */
+    .pfp::before {
+        width: 60%;
+    }
+
+    .pfp_ambassador::before {
+        width: 60%;
+    }
+
+    .team_group {
+        display: block;
+    }
+
+    .team_group2 {
+        display: block;
+    }
+
+    .groupres1 {
+        display: none;
+    }
+
+    .groupres2 {
+        display: none;
+    }
+}
+
+
+@media(max-width: 575px) {
+    .app_tab {
+        padding: 40px 0px;
+    }
+
+    .app_tab img {
+        margin-bottom: 50px;
+    }
+
+    .app_tab h2 {
+        text-align: center;
+        margin: 0;
+    }
+
+    .app_tab p {
+        margin: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .why_part {
+        padding: 40px 0px;
+    }
+
+    .eyes {
+        padding-top: 40px;
+    }
+
+    .eyes_text {
+        padding-top: 0px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .eyes_text h2 {
+        width: 35%;
+        margin: auto;
+        padding: 0;
+        padding: 10px;
+    }
+
+    .panel {
+        padding: 40px 0px;
+    }
+
+    .panel_image {
+        text-align: center;
+    }
+
+    .panel_image img {
+        margin-top: 30px;
+        width: 90%;
+    }
+
+    .user_text {
+        padding: 30px 0px;
+    }
+
+    .subscribe {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+    .road_map {
+        display: none;
+    }
+
+
+    /* road map responsive */
+    .road_mapresponsive {
+        display: block;
+        min-height: 100vh;
+    }
+
+    .map_structure2 {
+        padding: 100px 0px;
+    }
+
+    .map_structure2 img {
+        width: 40%;
+    }
+
+    .texts p {
+
+        font-size: 10px;
+
+        margin-top: 15px;
+
+    }
+
+    .tittle_box h2 {
+        font-size: 10px;
+    }
+
+    /* paperR */
+    .paperR {
+        top: 14%;
+        left: 55%;
+        width: 46%;
+    }
+
+
+    .tittle_paperR::before {
+        left: 46%;
+    }
+
+
+    .paperRicon {
+        top: 25%;
+        left: 53%;
+    }
+
+    /* techR */
+    .techR {
+        top: 23%;
+        left: -8%;
+        width: 50%;
+    }
+
+    .tittle_techR::before {
+        left: 45%;
+    }
+
+    .techiconR {
+        top: 32%;
+        left: 23%;
+    }
+
+    .map_icon p {
+
+        font-size: 10px;
+
+        margin: 0;
+
+        margin-top: 5px;
+
+    }
+
+    /* invest */
+    .investR {
+        top: 31%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_investR::before {
+        left: 44%;
+    }
+
+    .investiconR {
+        top: 39%;
+        left: 52%;
+    }
+
+    /* blockchain */
+    .blockchainR {
+        top: 38%;
+        left: -8%;
+        width: 50%;
+    }
+
+    .blockchainiconR {
+        top: 47%;
+        left: 23%;
+    }
+
+    .tittle_blockchainR::before {
+        left: 46%;
+    }
+
+
+    /* winter fever */
+    .winterR {
+        top: 44%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_winterR::before {
+        left: 45%;
+    }
+
+    .wintericonR {
+        top: 55%;
+        left: 52%;
+    }
+
+
+    /* dapps */
+    .dappsR {
+        top: 53%;
+        left: -8%;
+        width: 50%;
+    }
+
+    .dappsiconR {
+        top: 62%;
+        left: 23%;
+    }
+
+    .tittle_dappsR::before {
+        left: 46%;
+    }
+
+    /* accel */
+    .accelR {
+        top: 60%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_accelR::before {
+        left: 45%;
+    }
+
+    .acceliconR {
+        top: 71%;
+        left: 52%;
+    }
+
+    /* expansion */
+    .expansionR {
+        top: 70%;
+        left: -8%;
+        width: 50%;
+    }
+
+    .expansioniconR {
+        top: 78%;
+        left: 23%;
+    }
+
+    .tittle_expansionR::before {
+        left: 45%;
+    }
+
+    /* hub */
+    .hubR {
+        top: 77%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_hubR::before {
+        left: 44%;
+    }
+
+    /* team responsove */
+    .team h2 {
+        text-align: center;
+        font-size: 28px;
+    }
+
+    .team_details {
+        text-align: center;
+    }
+
+    .team_icon {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .ambassadors h2 {
+        font-size: 28px;
+    }
+
+    .pfp_ambassador::before {
+        width: 105%;
+    }
+
+    .pfp::before {
+        width: 55%;
+    }
+
+
+
+}
+
+@media(max-width: 400px) {
+
+    .road_map {
+        display: none;
+    }
+
+    /* road map responsive */
+    .road_mapresponsive {
+        display: block;
+        min-height: 100vh;
+    }
+
+    .map_structure2 {
+        padding: 100px 0px;
+    }
+
+    .map_structure2 img {
+        width: 40%;
+    }
+
+    .texts p {
+
+        font-size: 6px;
+
+        margin-top: 15px;
+
+    }
+
+    .tittle_box h2 {
+        font-size: 10px;
+    }
+
+    /* paperR */
+    .paperR {
+        top: 16%;
+        left: 55%;
+        width: 46%;
+    }
+
+
+    .tittle_paperR::before {
+        left: 44%;
+    }
+
+
+    .paperRicon {
+        top: 26%;
+        left: 52%;
+    }
+
+    /* techR */
+    .techR {
+        top: 24%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .tittle_techR::before {
+        left: 44%;
+    }
+
+    .techiconR {
+        top: 33%;
+        left: 23%;
+    }
+
+    .map_icon p {
+
+        font-size: 10px;
+
+        margin: 0;
+
+        margin-top: 5px;
+
+    }
+
+    /* invest */
+    .investR {
+        top: 33%;
+        left: 57%;
+        width: 44%;
+    }
+
+    .tittle_investR::before {
+        left: 43%;
+    }
+
+    .investiconR {
+        top: 40%;
+        left: 51%;
+    }
+
+    /* blockchain */
+    .blockchainR {
+        top: 38%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .blockchainiconR {
+        top: 47%;
+        left: 23%;
+    }
+
+    .tittle_blockchainR::before {
+        left: 43%;
+    }
+
+
+    /* winter fever */
+    .winterR {
+        top: 45%;
+        left: 57%;
+        width: 44%;
+    }
+
+    .tittle_winterR::before {
+        left: 42%;
+    }
+
+    .wintericonR {
+        top: 55%;
+        left: 51%;
+    }
+
+
+    /* dapps */
+    .dappsR {
+        top: 53%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .dappsiconR {
+        top: 61%;
+        left: 23%;
+    }
+
+    .tittle_dappsR::before {
+        left: 43%;
+    }
+
+    /* accel */
+    .accelR {
+        top: 60%;
+        left: 57%;
+        width: 44%;
+    }
+
+    .tittle_accelR::before {
+        left: 42%;
+    }
+
+    .acceliconR {
+        top: 70%;
+        left: 51%;
+    }
+
+    /* expansion */
+    .expansionR {
+        top: 69%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .expansioniconR {
+        top: 76%;
+        left: 23%;
+    }
+
+    .tittle_expansionR::before {
+        left: 43%;
+    }
+
+    /* hub */
+    .hubR {
+        top: 75%;
+        left: 57%;
+        width: 44%;
+    }
+
+    .tittle_hubR::before {
+        left: 43%;
+    }
+}
+
+@media(max-width: 360px) {
+
+    .road_map {
+        display: none;
+    }
+
+
+    /* road map responsive */
+    .road_mapresponsive {
+        display: block;
+        min-height: 100vh;
+    }
+
+    .map_structure2 {
+        padding: 100px 0px;
+    }
+
+    .map_structure2 img {
+        width: 40%;
+    }
+
+    .texts p {
+
+        font-size: 6px;
+
+        margin-top: 15px;
+
+    }
+
+    .tittle_box h2 {
+        font-size: 10px;
+    }
+
+    /* paperR */
+    .paperR {
+        top: 16%;
+        left: 57%;
+        width: 46%;
+    }
+
+
+    .tittle_paperR::before {
+        left: 42%;
+    }
+
+
+    .paperRicon {
+        top: 27%;
+        left: 53%;
+    }
+
+    /* techR */
+    .techR {
+        top: 24%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .tittle_techR::before {
+        left: 44%;
+    }
+
+    .techiconR {
+        top: 33%;
+        left: 26%;
+    }
+
+    .map_icon p {
+
+        font-size: 10px;
+
+        margin: 0;
+
+        margin-top: 5px;
+
+    }
+
+    /* invest */
+    .investR {
+        top: 33%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_investR::before {
+        left: 42%;
+    }
+
+    .investiconR {
+        top: 40%;
+        left: 52%;
+    }
+
+    /* blockchain */
+    .blockchainR {
+        top: 38%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .blockchainiconR {
+        top: 47%;
+        left: 26%;
+    }
+
+    .tittle_blockchainR::before {
+        left: 43%;
+    }
+
+
+    /* winter fever */
+    .winterR {
+        top: 45%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_winterR::before {
+        left: 42%;
+    }
+
+    .wintericonR {
+        top: 55%;
+        left: 49%;
+    }
+
+
+    /* dapps */
+    .dappsR {
+        top: 53%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .dappsiconR {
+        top: 61%;
+        left: 26%;
+    }
+
+    .tittle_dappsR::before {
+        left: 43%;
+    }
+
+    /* accel */
+    .accelR {
+        top: 60%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_accelR::before {
+        left: 41%;
+    }
+
+    .acceliconR {
+        top: 70%;
+        left: 49%;
+    }
+
+    /* expansion */
+    .expansionR {
+        top: 69%;
+        left: -10%;
+        width: 50%;
+    }
+
+    .expansioniconR {
+        top: 76%;
+        left: 26%;
+    }
+
+    .tittle_expansionR::before {
+        left: 43%;
+    }
+
+    /* hub */
+    .hubR {
+        top: 75%;
+        left: 58%;
+        width: 44%;
+    }
+
+    .tittle_hubR::before {
+        left: 42%;
+    }
+}
+
+
+
+@media(max-width: 320px) {
+    .app_tab {
+        padding: 80px 0px;
+    }
+
+    .app_tab img {
+        margin-bottom: 50px;
+    }
+
+    .app_tab h2 {
+        text-align: center;
+        margin: 0;
+    }
+
+    .app_tab p {
+        margin: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .eyes {
+        padding: 40px 0px;
+    }
+
+    .eyes_image img {
+        width: 100%;
+        padding-top: 0%;
+    }
+
+    .eyes_text {
+        padding-top: 20px;
+    }
+
+    .eyes_text h2 {
+        width: 35%;
+    }
+
+
+    .panel_image img {
+        margin-top: 20px;
+    }
+
+    .user_text {
+        padding: 30px 0px;
+    }
+
+    .panel {
+        padding: 0px 0px;
+    }
+
+    .panel_image {
+        text-align: center;
+    }
+
+    .panel_image img {
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    .subscribe {
+        padding-top: 25px;
+        padding-bottom: 40px;
+    }
+
+
+
+    /* road map */
+    .road_map {
+        display: none;
+    }
+
+
+    /* road map responsive */
+    .road_mapresponsive {
+        display: block;
+        min-height: 100vh;
+    }
+
+    .map_structure2 {
+        padding: 100px 0px;
+    }
+
+    .map_structure2 img {
+        width: 40%;
+    }
+
+    .texts p {
+
+        font-size: 6px;
+
+        margin-top: 15px;
+
+    }
+
+    .tittle_box h2 {
+        font-size: 10px;
+    }
+
+    /* paperR */
+    .paperR {
+        top: 130px;
+        left: 168px;
+        width: 46%;
+    }
+
+
+    .tittle_paperR::before {
+        left: 31px;
+    }
+
+
+    .paperRicon {
+        top: 230px;
+        left: 152px;
+    }
+
+    /* techR */
+    .techR {
+        top: 190px;
+        left: -28px;
+        width: 50%;
+    }
+
+    .tittle_techR::before {
+        left: 35px;
+    }
+
+    .techiconR {
+        top: 279px;
+        left: 82px;
+    }
+
+    .map_icon p {
+
+        font-size: 10px;
+
+        margin: 0;
+
+        margin-top: 5px;
+
+    }
+
+    /* invest */
+    .investR {
+        top: 271px;
+        left: 175px;
+        width: 44%;
+    }
+
+    .tittle_investR::before {
+        left: 29px;
+    }
+
+    .investiconR {
+        top: 335px;
+        left: 148px;
+    }
+
+    /* blockchain */
+    .blockchainR {
+        top: 312px;
+        left: -28px;
+        width: 50%;
+    }
+
+    .blockchainiconR {
+        top: 395px;
+        left: 82px;
+    }
+
+    .tittle_blockchainR::before {
+        left: 36px;
+    }
+
+
+    /* winter fever */
+    .winterR {
+        top: 361px;
+        left: 175px;
+        width: 44%;
+    }
+
+    .tittle_winterR::before {
+        left: 30px;
+    }
+
+    .wintericonR {
+        top: 446px;
+        left: 147px;
+    }
+
+
+    /* dapps */
+    .dappsR {
+        top: 439px;
+        left: -28px;
+        width: 50%;
+    }
+
+    .dappsiconR {
+        top: 500px;
+        left: 82px;
+    }
+
+    .tittle_dappsR::before {
+        left: 35px;
+    }
+
+    /* accel */
+    .accelR {
+        top: 480px;
+        left: 175px;
+        width: 44%;
+    }
+
+    .tittle_accelR::before {
+        left: 29px;
+    }
+
+    .acceliconR {
+        top: 560px;
+        left: 147px;
+    }
+
+    /* expansion */
+    .expansionR {
+        top: 552px;
+        left: -28px;
+        width: 50%;
+    }
+
+    .expansioniconR {
+        top: 620px;
+        left: 82px;
+    }
+
+    .tittle_expansionR::before {
+        left: 35px;
+    }
+
+    /* hub */
+    .hubR {
+        top: 605px;
+        left: 175px;
+        width: 44%;
+    }
+
+    .tittle_hubR::before {
+        left: 30px;
+    }
+
+    /* team responsove */
+    .team h2 {
+        text-align: center;
+        font-size: 28px;
+    }
+
+    .team_details {
+        text-align: center;
+    }
+
+    .team_icon {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .ambassadors h2 {
+        font-size: 28px;
+    }
+
+    .pfp_ambassador::before {
+        width: 105%;
+    }
+
+    .pfp::before {
+        width: 100%;
+    }
+}

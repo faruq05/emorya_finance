@@ -1,0 +1,395 @@
+@font-face {
+    font-family: "Brinnan";
+    font-weight: 400;
+    src: url("/fonts/brinnan-regular.otf");
+}
+@font-face {
+    font-family: "Brinnan";
+    font-weight: 700;
+    src: url("/fonts/brinnan-bold.otf");
+}
+@font-face {
+    font-family: "Brinnan";
+    font-weight: 300;
+    src: url("/fonts/brinnan-light.otf");
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Brinnan";
+    background: url(../images/background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.font-reg {
+    font-weight: 400 !important;
+}
+/* GLOBAL END */
+/* header start */
+.navbar-mobile {
+    display: none;
+}
+.navbar-nav {
+    align-items: center;
+}
+.brand-logo {
+    max-width: 100px;
+    margin: 0 60px;
+}
+.navbar .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-item {
+    margin: 0 15px;
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: #808080;
+}
+.navbar-logo-centered .navbar-nav .nav-link{
+    padding: .5em 1em;
+}
+/* header end */
+/* hero start */
+#hero {
+    background: url(../images/hero-bg.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.hero-content h1 {
+    font-size: 46px;
+    font-weight: bold;
+    max-width: 420px;
+    color: #fff;
+}
+.hero-content h1 .font-reg {
+    font-weight: 400;
+}
+.hero-content p {
+    font-size: 20px;
+    color: #fff;
+    max-width: 380px;
+    margin: 20px 0;
+}
+.btn-cs {
+    color: #fff;
+    background: transparent;
+    padding: 12px 70px;
+    text-transform: uppercase;
+    border: 1px solid #0073ff;
+    border-radius: 30px;
+}
+/* hero end */
+/* what start */
+#what {
+
+}
+.what-title {
+    color: #f3c9f6;
+    font-size: 54px;
+    font-weight: 300;
+}
+.what-img {
+    position: relative;
+    right: -100px;
+}
+.what-inner-1 {
+    background-color: rgba(65, 45, 152, .7);
+    color: #f3c9f6;
+    padding: 30px;
+    border: 1px solid #0073ff;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+.what-inner-2 {
+    padding: 30px;
+    color: #f3c9f6;
+}
+.what-inner-2 a {
+    margin-top: 10px;
+}
+/* what end */
+/* token start */
+#token {
+    padding: 50px;
+    background: url(../images/token-bg.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.token-title {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+}
+.token-title p {
+    color: #f3c9f6;
+}
+.token-content {
+    position: relative;
+    height: 650px;
+}
+.token-img {
+    position: absolute;
+    max-width: 700px;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.card-single {
+    color: #fff;
+    position: absolute;
+}
+.card-single h4 {
+    font-size: 20px;
+}
+.card-single p {
+    font-size: 18px;
+    font-weight: 300;
+    color: #f3c9f6;
+}
+.card-1 {
+    max-width: 320px;
+    left: 80px;
+    top: 0;
+}
+.card-2 {
+    top: 220px;
+    left: 0;
+    max-width: 260px;
+}
+.card-3 {
+    top: 400px;
+    max-width: 260px;
+    left: 140px;
+}
+.card-4 {
+    max-width: 260px;
+    left: 55%;
+    top: 500px;
+    transform: translate(-50%, 0);
+}
+.card-5 {
+    max-width: 260px;
+    right: 80px;
+    top: 30px;
+}
+.card-6 {
+    max-width: 260px;
+    right: 30px;
+    top: 300px;
+}
+/* token end */
+/* transaction start */
+#transaction {
+    padding: 60px 0;
+    color: #fff;
+    position: relative;
+}
+#transaction::before {
+    content: "";
+    width: 700px;
+    height: 700px;
+    background: url(../images/tokennimcs-down-bg.png) no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -99;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+#transaction::after {
+    content: "";
+    width: 90%;
+    height: 620px;
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .7));
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #051b36;
+    z-index: -9;
+}
+.transaction-title {
+    margin-bottom: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.tran-card-single {
+    max-width: 330px;
+    text-align: center;
+    padding: 30px 15px 15px;
+    background: rgba(0, 0, 0, .9);
+    border-radius: 20px;
+    border: 1px solid #17825d;
+    margin-bottom: 20px;
+}
+/* transaction end */
+/* partner start */
+#partner {
+    padding: 60px 0 200px;
+}
+.partner-img {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+/* partner end */
+/* Repsonsive start */
+@media (max-width: 1280px) {
+    .token-img {
+        max-width: 450px;
+    }
+    .card-1 {
+    }
+    .card-2 {
+        top: 180px;
+    }
+    .card-3 {
+        top: 340px;
+    }
+    .card-4 {
+        top: 380px;
+    }
+    #transaction::before {
+        width: 500px;
+        height: 500px;
+    }
+    #transaction::after {
+        width: 95%;
+        
+    }
+}
+@media (max-width: 1200px) {
+    #token {
+        padding: 30px 0;
+    }
+    #token .container {
+        max-width: 800px;
+    }
+    .token-img {
+        max-width: 300px;
+    }
+    .card-1 {
+        left: 0;
+    }
+    .card-2 {
+        top: 150px;
+    }
+    .card-3 {
+        top: 290px;
+        left: 40px;
+    }
+    .card-4 {
+        top: 270px;
+        left: 60%;
+    }
+    .card-5 {
+        right: -20px;
+    }
+    .card-6 {
+        right: -40px;
+        top: 180px;
+    }
+    #transaction::before {
+        width: 500px;
+        height: 500px;
+    }
+    #transaction::after {
+        width: 95%;
+        
+    }
+}
+@media (max-width: 884.99px) {
+    .navbar-mobile {
+        display: block;
+    }
+    .navbar-desktop {
+        display: none;
+    }
+    .navbar-brand {
+        max-width: 80px;
+    }
+    #hero {
+        margin-bottom: 50px;
+    }
+    .hero-content h1{
+        font-size: 30px;
+        max-width: 280px;
+    }
+    .what-img {
+        margin: 0;
+        position: static;
+    }
+    .token-content {
+        position: static;
+        height: auto;
+    }
+    .token-img {
+        position: static;
+        margin: 0 auto 30px;
+    }
+    .card-single {
+        max-width: 400px;
+        position: static;
+        padding: 10px 0;
+        margin: 0 auto 20px;
+    }
+    #token {
+        height: auto;
+        padding-bottom: 40px;
+        padding: 40px 15px;
+    }
+    .card-4,
+    .token-img {
+        transform: translate(0, 0);
+    }
+    #transaction {
+        padding: 30px 0;
+    }
+    #transaction::before {
+        width: 500px;
+        height: 500px;
+    }
+    #transaction::after {
+        width: 95%;
+    }
+    .tran-card-single {
+        margin: 15px auto;
+    }
+    .partner-img {
+        max-width: 70%;
+    }
+}
+@media (max-width: 767.99px) {
+    #transaction::before {
+        width: 500px;
+        height: 500px;
+    }
+    #transaction::after {
+        width: 95%;
+        height: 1000px;
+    }
+    .tran-card-single{
+        background: rgba(0, 0, 0, .5)
+    }
+}
+@media (max-width: 575.99px) {
+    #transaction::before {
+        width: 300px;
+        height: 300px;
+    }
+    #transaction::after {
+        width: 99%;
+        height: 1100px;
+    }
+}
+/* Repsonsive end */
